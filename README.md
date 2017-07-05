@@ -2,7 +2,7 @@
 
 Grid-based games can span a wide range of topics. Two classic examples are [Chip's Challenge](http://webccgame.com/?page=play) and [Sokoban](http://sokoban.info/).
 
-![state: building/designing](https://img.shields.io/badge/status-building%2fdesigning-orange.svg)
+![state: deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
 
 # [Project name]
 
